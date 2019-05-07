@@ -2,6 +2,12 @@
 
 Script for getting Cpu and Memory metrics.
 
+## OS
+
+* Linux Ubuntu
+* Linux Debian
+
+
 ## Installation
 
 Install python (version 2.7) into your Linux PC.
@@ -30,6 +36,3 @@ git clone https://github.com/FrolovVitalii/Python.git
 
  python2.7 metrics.py -n Cpu
 ```
-
-## License
-Free
