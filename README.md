@@ -15,7 +15,7 @@ Install python (version 2.7) into your Linux PC and psuti (for script  metrics_n
 ```bash
 * apt-get install python2.7
 * apt-get install python-dev
-* apt-get install python3-pip
+* apt-get install python2.7-pip
 * pip install psutil
 ```
 
