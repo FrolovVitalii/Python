@@ -38,4 +38,8 @@ git clone https://github.com/FrolovVitalii/Python.git
  python2.7 metrics.py -n Mem
 
  python2.7 metrics.py -n Cpu
+ 
+ python2.7 metrics_new.py -n mem
+ 
+ python2.7 metrics_new.py -n cpu
 ```
