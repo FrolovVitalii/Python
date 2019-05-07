@@ -2,7 +2,7 @@
 
 Script for getting Cpu and Memory metrics.
 
-## OS
+## OS (for metrics.py) 
 
 * Linux Ubuntu
 * Linux Debian
