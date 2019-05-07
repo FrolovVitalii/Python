@@ -10,10 +10,13 @@ Script for getting Cpu and Memory metrics.
 
 ## Installation
 
-Install python (version 2.7) into your Linux PC.
+Install python (version 2.7) into your Linux PC and psuti (for script  metrics_new.py ). 
 
 ```bash
-apt-get install python2.7
+* apt-get install python2.7
+* apt-get install python-dev
+* apt-get install python3-pip
+* pip install psutil
 ```
 
 ## Download script from github
